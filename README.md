@@ -7,28 +7,40 @@ Feel free to reach me at:
 
 ## Projects
 
-<img align="left" width=auto height=235 src="https://instaprop.com/blog/img/blog/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"> **[<u> Employee Survival Analysis </u>](https://github.com/AlvaroVillamizar/Employee_Survival_Analysis)**
+<img align="left" width=auto height=235 src="https://www.tipcolombia.com/wp-content/uploads/2022/10/monitoreo.png"> **[<u> Water quality dashboard </u>](https://github.com/AlvaroVillamizar/Visor-de-Calidad-del-agua)**
 
 <b> Notable Skills </b>
-- <font size ="-2">Machine Learning Implementation </font>
-- <font size ="-2">Data analysis and Interpretation </font>
+- <font size ="-2">Microsoft Power BI </font>
+- <font size ="-2">Data storytelling </font>
 - <font size ="-2">Data visualizations </font>
 - <font size ="-2">Data Reporting </font>
 
-In this project I analyzed a Human Resource dataset with information of employees who stayed and left an organization. The purpose of the analysis is to analyze the significant factors that drive employee turnover, by performing survival analysis, to then implement a Supervised Machine Learning classification model to predict whether an employee is going to quit, and analysis its main features to discussed how to improve the causes for quitting.
+This tool allows to improve the visualization of information on water quality by municipalities in Colombia. The viewer shows a detailed map of Colombia, identifying the municipalities with available data and offering descriptive graphs of the state of the water in said municipality.
 
 
 #
 
-<img align="left" width=400 height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
+<img align="left" width=400 height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
 
 <b> Notable Skills </b>
-- <font size ="-2">Data extraction and Transformation </font>
-- <font size ="-2">Data analysis and Interpretation </font>
-- <font size ="-2">SQL Efficiency </font>
-- <font size ="-2">Problem Solving </font>
+- <font size ="-2">Microsoft Power BI </font>
+- <font size ="-2">Python implementation </font>
+- <font size ="-2">Data visualization </font>
+- <font size ="-2">Data storytelling </font>
 
-In this project, I studied the patterns of FitBit users during their product usage. I considered the number of steps as an estimator of their physical activity, and weight, BMI (Body Mass Index), and gender as estimator for their BMR (Basal Metabolic Rate). The goal was to determine if whether users achieved their weight loss goals, as well as suggestions to improve clients-product relationship.
+his tool facilitates the visualization and transparency of data on councilors at the municipal and departmental level in Colombia. Additionally, it offers visualizations of descriptive statistics and detailed geographic maps, which can be automatically updated in the event of any change in the database.
+
+#
+
+<img align="left" width="400" height=auto src="https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/blob/main/Images/Asistenciales.png""> **[<u> Statistical study of Burnout impact on psicosocial factors and inhibitory control in Colombian Workers </u>](https://github.com/AlvaroVillamizar/Glioblastomas-Analysis.git)**
+
+<b> Notable Skills </b>
+- <font size ="-2">Data analysis and Interpretation </font>
+- <font size ="-2">Statistical analysis </font>
+- <font size ="-2">Python implementation</font>
+- <font size ="-2">Hypothesis testing </font>
+
+The central objective of this project is analyze the impact of Burnout Syndrome (BS) symptomatology and psychosocial risk on the inhibitory control of healthcare and non-care workers. For that I will answer 4 main hypothesis stablish in the project: Determine prevalence of symptoms and type of burnout components involved in both groups, the impact of the BS on the inhibition of the sample, and compare the impact of BS on the inhibition of both groups
 
 #
 
@@ -44,12 +56,22 @@ The central objective of this project is to develop numerical simulations for an
 
 #
 
+## Side projects
+
+**[<u> Employee Survival Analysis </u>](https://github.com/AlvaroVillamizar/Employee_Survival_Analysis)**
+
+Link: https://github.com/AlvaroVillamizar/Employee_Survival_Analysis
+
+**[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
+
+Link: https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git
+
+
 ## Competencies
-- <strong> Languages: </strong> Python (Numpy, Pandas, Matplolib), R (Dplyr, Tidyr, Ggplot2), SQL Server.
+- <strong> Languages: </strong> Python, R, SQL Server.
 - <strong> Tools: </strong> SQL server, MS Excel, Git, and Power BI.
 
 ## Certificates
 - [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AQCZD9T436YJ)
 - [Google Data Analytics Specialization](https://coursera.org/share/0e538e0dddace4fccf49bdf5a8f4f701)
 - [Microsoft SQL Server 2022 Essential Training](https://www.linkedin.com/learning/certificates/bff815d15690ee694796c0e2f32b0180b83cfe241140ad8971e9a875006e7f2a)
-
