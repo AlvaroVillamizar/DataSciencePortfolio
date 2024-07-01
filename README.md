@@ -20,7 +20,7 @@ This tool allows to improve the visualization of information on water quality by
 
 #
 
-<img align="left" width=400 height=auto src="https://cdn.euroinnova.edu.es/img/subidasEditor/dise%C3%B1o%20sin%20t%C3%ADtulo%20(19)-1615156451.webp"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
+<img align="left" width=400 height=auto src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_FfZy4qajYNnfWj_LYi5VOVXyVeyli-GiQ&s"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
 
 <b> Notable Skills </b>
 
