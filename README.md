@@ -20,7 +20,7 @@ This tool allows to improve the visualization of information on water quality by
 
 #
 
-<img align="left" width=400 height=auto src=![Consejeros](https://github.com/AlvaroVillamizar/DataSciencePortfolio/assets/43424429/ed6a6fe7-bfd8-43da-af46-6b1657d37037)> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
+<img align="left" width=400 height=auto src="https://www.yolocounty.org/home/showpublishedimage/19834/637953084734970000"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
 
 <b> Notable Skills </b>
 
