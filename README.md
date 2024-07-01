@@ -61,11 +61,11 @@ The central objective of this project is to develop numerical simulations for an
 
 **[<u> Employee Survival Analysis </u>](https://github.com/AlvaroVillamizar/Employee_Survival_Analysis)**
 
-Link: https://github.com/AlvaroVillamizar/Employee_Survival_Analysis
+Abstract: The purpose of the analysis is to analyze the significant factors that drive employee turnover, by performing survival analysis, to then implement a Supervised Machine Learning classification model to predict whether an employee is going to quit
 
 **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
 
-Link: https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git
+Abstract: study the patterns of FitBit users during their product usage. I considered the number of steps as an estimator of their physical activity, and weight, BMI (Body Mass Index), and gender as estimator for their BMR (Basal Metabolic Rate).
 
 
 ## Competencies
