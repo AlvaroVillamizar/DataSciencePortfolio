@@ -20,9 +20,10 @@ This tool allows to improve the visualization of information on water quality by
 
 #
 
-<img align="left" width=400 height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
+<img align="left" width=400 height=auto src=![Consejeros](https://github.com/AlvaroVillamizar/DataSciencePortfolio/assets/43424429/ed6a6fe7-bfd8-43da-af46-6b1657d37037)> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
 
 <b> Notable Skills </b>
+
 - <font size ="-2">Microsoft Power BI </font>
 - <font size ="-2">Python implementation </font>
 - <font size ="-2">Data visualization </font>
