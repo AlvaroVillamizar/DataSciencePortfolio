@@ -20,7 +20,7 @@ This tool allows to improve the visualization of information on water quality by
 
 #
 
-<img align="left" width=400 height=auto src="https://www.yolocounty.org/home/showpublishedimage/19834/637953084734970000"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
+<img align="left" width=400 height=auto src="https://cdn.euroinnova.edu.es/img/subidasEditor/dise%C3%B1o%20sin%20t%C3%ADtulo%20(19)-1615156451.webp"> **[<u> Participation advisors dashboard </u>](https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP)**
 
 <b> Notable Skills </b>
 
@@ -33,7 +33,7 @@ his tool facilitates the visualization and transparency of data on councilors at
 
 #
 
-<img align="left" width="400" height=auto src="https://github.com/AlvaroVillamizar/Impact-of-Burnout-Syndrome-on-the-Performance-of-Care-Workers-in-Colombia/blob/main/Images/Asistenciales.png""> **[<u> Statistical study of Burnout impact on psicosocial factors and inhibitory control in Colombian Workers </u>](https://github.com/AlvaroVillamizar/Glioblastomas-Analysis.git)**
+<img align="left" width="400" height=auto src="https://www.policia.gov.co/sites/default/files/styles/500x285/public/qsomos_sanidad.jpg?itok=bruDtTUU"> **[<u> Statistical study of Burnout impact on psicosocial factors and inhibitory control in Colombian Workers </u>](https://github.com/AlvaroVillamizar/Glioblastomas-Analysis.git)**
 
 <b> Notable Skills </b>
 - <font size ="-2">Data analysis and Interpretation </font>
